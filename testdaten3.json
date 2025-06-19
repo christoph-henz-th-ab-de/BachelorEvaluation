@@ -1,0 +1,163 @@
+[
+    {
+      "source_ip": "192.168.1.10",
+      "destination_ip": "185.14.98.2",
+      "port": 22,
+      "protocol": "SSH",
+      "country": "Russland",
+      "description": "SSH-Verbindung von externer russischer IP"
+    },
+    {
+      "source_ip": "192.168.1.50",
+      "destination_ip": "10.0.0.5",
+      "port": 80,
+      "protocol": "HTTP",
+      "country": "intern",
+      "description": "Normale HTTP-Kommunikation im Intranet"
+    },
+    {
+      "source_ip": "192.168.1.23",
+      "destination_ip": "203.0.113.45",
+      "port": 4444,
+      "protocol": "TCP",
+      "country": "USA",
+      "description": "Verbindung zu Port 4444 – häufig für Backdoors verwendet"
+    },
+    {
+      "source_ip": "10.0.0.7",
+      "destination_ip": "8.8.8.8",
+      "port": 53,
+      "protocol": "DNS",
+      "country": "USA",
+      "description": "Reguläre DNS-Anfrage an Google"
+    },
+    {
+      "source_ip": "192.168.1.12",
+      "destination_ip": "213.87.23.12",
+      "port": 6667,
+      "protocol": "IRC",
+      "country": "Ukraine",
+      "description": "IRC-Verbindung – potenzielles Botnet-Control"
+    },
+    {
+      "source_ip": "192.168.1.14",
+      "destination_ip": "103.21.244.0",
+      "port": 23,
+      "protocol": "Telnet",
+      "country": "Indien",
+      "description": "Unverschlüsselte Telnet-Verbindung von extern"
+    },
+    {
+      "source_ip": "10.0.0.5",
+      "destination_ip": "203.0.113.77",
+      "port": 443,
+      "protocol": "HTTPS",
+      "country": "USA",
+      "description": "Regulärer HTTPS-Verkehr"
+    },
+    {
+      "source_ip": "192.168.1.25",
+      "destination_ip": "45.33.32.156",
+      "port": 3389,
+      "protocol": "RDP",
+      "country": "USA",
+      "description": "RDP-Verbindung zu externem Server"
+    },
+    {
+      "source_ip": "192.168.1.100",
+      "destination_ip": "5.45.207.1",
+      "port": 80,
+      "protocol": "HTTP",
+      "country": "Russland",
+      "description": "HTTP-Anfrage an bekannte Malware-Domain"
+    },
+    {
+      "source_ip": "10.0.0.10",
+      "destination_ip": "192.0.2.1",
+      "port": 21,
+      "protocol": "FTP",
+      "country": "USA",
+      "description": "FTP-Login über Klartext-Passwort"
+    },
+    {
+      "source_ip": "192.168.1.88",
+      "destination_ip": "198.51.100.2",
+      "port": 8080,
+      "protocol": "HTTP",
+      "country": "USA",
+      "description": "Proxy-Traffic über Port 8080"
+    },
+    {
+      "source_ip": "192.168.2.22",
+      "destination_ip": "185.220.101.1",
+      "port": 80,
+      "protocol": "HTTP",
+      "country": "Tor Exit Node",
+      "description": "Zugriff über Tor-Exit-Node"
+    },
+    {
+      "source_ip": "10.0.0.15",
+      "destination_ip": "91.198.174.192",
+      "port": 443,
+      "protocol": "HTTPS",
+      "country": "Deutschland",
+      "description": "Regulärer Zugriff auf Wikipedia"
+    },
+    {
+      "source_ip": "192.168.3.10",
+      "destination_ip": "203.0.113.88",
+      "port": 53,
+      "protocol": "DNS",
+      "country": "USA",
+      "description": "DNS-Anfrage an verdächtigen DNS-Server"
+    },
+    {
+      "source_ip": "192.168.1.75",
+      "destination_ip": "156.146.34.1",
+      "port": 8443,
+      "protocol": "HTTPS",
+      "country": "China",
+      "description": "HTTPS-Verbindung zu unbekanntem Host in China"
+    },
+    {
+      "source_ip": "192.168.1.22",
+      "destination_ip": "192.168.1.1",
+      "port": 161,
+      "protocol": "SNMP",
+      "country": "intern",
+      "description": "SNMP-Abfrage im LAN"
+    },
+    {
+      "source_ip": "10.0.0.2",
+      "destination_ip": "203.0.113.100",
+      "port": 25,
+      "protocol": "SMTP",
+      "country": "USA",
+      "description": "Ausgehende Mailverbindung"
+    },
+    {
+      "source_ip": "10.0.0.3",
+      "destination_ip": "185.199.108.153",
+      "port": 443,
+      "protocol": "HTTPS",
+      "country": "USA",
+      "description": "GitHub-Zugriff"
+    },
+    {
+      "source_ip": "192.168.1.80",
+      "destination_ip": "198.51.100.23",
+      "port": 3306,
+      "protocol": "MySQL",
+      "country": "USA",
+      "description": "Unverschlüsselte Datenbankverbindung über das Internet"
+    },
+    {
+      "source_ip": "192.168.1.55",
+      "destination_ip": "140.82.121.3",
+      "port": 22,
+      "protocol": "SSH",
+      "country": "USA",
+      "description": "SSH-Verbindung zu GitHub – Entwicklungssystem"
+    }
+  ]
+  

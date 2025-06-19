@@ -1,0 +1,181 @@
+Return-Path: <IN1SEX2F7OCG@hegyikristaly.eu>
+Authentication-Results:  kundenserver.de; dkim=none
+Received: from honlap.hu ([92.119.122.126]) by mx.kundenserver.de (mxeue002
+ [212.227.15.41]) with ESMTPS (Nemesis) id 1M44Wm-1u4zhg1Uu0-004ozx for
+ <info@dionysos-aburg.de>; Wed, 16 Apr 2025 12:09:12 +0200
+Received: from localhost (honlap.hu [127.0.0.1])
+	by honlap.hu (Postfix) with ESMTP id CC71899988;
+	Wed, 16 Apr 2025 12:08:24 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at honlap.hu
+Received: from honlap.hu ([127.0.0.1])
+	by localhost (honlap.hu [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 80b7D4W2C7kj; Wed, 16 Apr 2025 12:08:24 +0200 (CEST)
+Received: from webmail.honlapom.hu (honlap.hu [127.0.0.1])
+	(using TLSv1.3 with cipher TLS_AES_256_GCM_SHA384 (256/256 bits)
+	 key-exchange X25519 server-signature RSA-PSS (2048 bits) server-digest SHA256)
+	(No client certificate requested)
+	(Authenticated sender: roundcube@honlap.hu)
+	by honlap.hu (Postfix) with ESMTPSA id 55313998DC;
+	Wed, 16 Apr 2025 12:08:24 +0200 (CEST)
+MIME-Version: 1.0
+Date: Wed, 16 Apr 2025 12:08:24 +0200
+From: Anna Hofmann <IN1SEX2F7OCG@hegyikristaly.eu>
+To: undisclosed-recipients:;
+Subject: Guenstiges Fernsehen mit grosser Auswahl! #d0SvAH6G
+User-Agent: Roundcube Webmail/1.6.2
+Message-ID: <2f380a8653f53638efa8ba25e25f32e7@hegyikristaly.eu>
+X-Sender: IN1SEX2F7OCG@hegyikristaly.eu
+X-Priority: 1 (Highest)
+Content-Type: multipart/alternative;
+ boundary="=_356fcfdcec4e6358808b2638e0aacbd1"
+Envelope-To: <info@dionysos-aburg.de>
+X-Spam-Flag: YES
+UI-InboundReport: junk:10;M01:P0:xqThGDlXzSY=;1sfUhHaufLSCx3sJP8KQB64eZo3/1j
+ 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
+
+--=_356fcfdcec4e6358808b2638e0aacbd1
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Content-Transfer-Encoding: quoted-printable
+
+WARUM ZAHLST DU NOCH F=C3=9CR JEDEN STREAMING-DIENST EINZELN?
+
+Hol dir Netflix, Videoland, Viaplay, Amazon Prime & mehr f=C3=BCr einen=20
+Bruchteil des Preises - alles an einem Ort!
+
+DEIN KOMPLETTES ENTERTAINMENT-PAKET:
+
+  	* =F0=9F=8E=AC **Netflix, Videoland, Viaplay, Amazon Prime & viele wei=
+tere=20
+Plattformen!**
+  	* =F0=9F=93=BA **=C3=9Cber 23.000 Live-TV-Kan=C3=A4le**, inkl. Sport, =
+Filme, Serien &=20
+Dokus.
+  	* =F0=9F=94=A5 **100% kompatibel** mit Smart TV, Fire Stick, Android, =
+iPhone, PC,=20
+Magbox & mehr.
+  	* =F0=9F=92=B0 **Nur 19,99 EUR f=C3=BCr 3 Monate** - keine versteckten=
+ Geb=C3=BChren!
+  	* =E2=9A=A1 **Ultra-HD-Streams ohne Verz=C3=B6gerung** - keine nervige=
+n=20
+Unterbrechungen!
+
+ZAHLE WENIGER & BEKOMME MEHR!
+
+H=C3=B6r auf, f=C3=BCr jeden Dienst einzeln zu bezahlen! Hol dir jetzt da=
+s=20
+**ultimative Streaming-Erlebnis** f=C3=BCr einen unschlagbaren Preis.=20
+**Sofort verf=C3=BCgbar - 100% risikofrei!**
+
+JETZT ZUGREIFEN [1]
+
+Warte nicht - **dieses Angebot ist limitiert**! Hol dir alles, was du=20
+liebst, f=C3=BCr weniger Geld!
+
+Mehr Infos? Besuche unsere Website [1].
+
+Kein Interesse? Dann zahl weiter unn=C3=B6tig drauf! =F0=9F=98=89
+
+Links:
+------
+[1] https://myiptvzone.com
+--=_356fcfdcec4e6358808b2638e0aacbd1
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8" /></head><body style=3D'font-size: 10pt; font-family: Verdana,Gen=
+eva,sans-serif'>
+<div style=3D"font-family: Arial, sans-serif; color: #222; max-width: 600px=
+; margin: 0 auto; line-height: 1.6;">
+<h1 style=3D"color: #ff0000; text-align: center;">Warum zahlst du noch f&uu=
+ml;r jeden Streaming-Dienst einzeln?</h1>
+<p style=3D"font-size: 18px; font-weight: bold; text-align: center;">Hol di=
+r <span style=3D"color: #ff0000;">Netflix, Videoland, Viaplay, Amazon Prime=
+</span> &amp; mehr f&uuml;r einen Bruchteil des Preises &ndash; alles an ei=
+nem Ort!</p>
+<h2 style=3D"color: #000;">Dein komplettes Entertainment-Paket:</h2>
+<ul style=3D"font-size: 16px; list-style: none; padding: 0; margin: 20px 0;=
+">
+<li style=3D"margin-bottom: 10px;">=F0=9F=8E=AC **Netflix, Videoland, Viapl=
+ay, Amazon Prime &amp; viele weitere Plattformen!**</li>
+<li style=3D"margin-bottom: 10px;">=F0=9F=93=BA **&Uuml;ber 23.000 Live-TV-=
+Kan&auml;le**, inkl. Sport, Filme, Serien &amp; Dokus.</li>
+<li style=3D"margin-bottom: 10px;">=F0=9F=94=A5 **100% kompatibel** mit Sma=
+rt TV, Fire Stick, Android, iPhone, PC, Magbox &amp; mehr.</li>
+<li style=3D"margin-bottom: 10px;">=F0=9F=92=B0 **Nur 19,99 &euro; f&uuml;r=
+ 3 Monate** &ndash; keine versteckten Geb&uuml;hren!</li>
+<li style=3D"margin-bottom: 10px;">=E2=9A=A1 **Ultra-HD-Streams ohne Verz&o=
+uml;gerung** &ndash; keine nervigen Unterbrechungen!</li>
+</ul>
+<h2 style=3D"color: #000;">Zahle weniger &amp; bekomme mehr!</h2>
+<p style=3D"font-size: 16px;">H&ouml;r auf, f&uuml;r jeden Dienst einzeln z=
+u bezahlen! Hol dir jetzt das **ultimative Streaming-Erlebnis** f&uuml;r ei=
+nen unschlagbaren Preis. **Sofort verf&uuml;gbar &ndash; 100% risikofrei!**=
+</p>
+<div style=3D"text-align: center; margin: 20px 0;"><a style=3D"background-c=
+olor: #ff0000; color: white; padding: 15px 30px; text-decoration: none; fon=
+t-size: 18px; border-radius: 5px; font-weight: bold;" href=3D"https://myipt=
+vzone.com">JETZT ZUGREIFEN</a></div>
+<p style=3D"font-size: 16px; text-align: center;">Warte nicht &ndash; **die=
+ses Angebot ist limitiert**! Hol dir alles, was du liebst, f&uuml;r weniger=
+ Geld!</p>
+<div style=3D"font-size: 12px; color: #666; margin-top: 20px; text-align: c=
+enter;">
+<p>Mehr Infos? Besuche <a style=3D"color: #ff0000;" href=3D"https://myiptvz=
+one.com">unsere Website</a>.</p>
+<p>Kein Interesse? Dann zahl weiter unn&ouml;tig drauf! =F0=9F=98=89</p>
+</div>
+</div>
+</body></html>
+
+--=_356fcfdcec4e6358808b2638e0aacbd1--

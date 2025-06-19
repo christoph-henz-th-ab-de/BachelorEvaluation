@@ -1,0 +1,182 @@
+Return-Path: <info@distributionjk.com>
+Authentication-Results:  kundenserver.de; dkim=pass header.i=info@distributionjk.com
+Received: from photograph.distributionjk.com ([198.98.57.169]) by
+ mx.kundenserver.de (mxeue001 [212.227.15.41]) with ESMTPS (Nemesis) id
+ 1Mv4gi-1tDT7p13qa-015BRb for <info@dionysos-aburg.de>; Sun, 13 Apr 2025
+ 22:16:01 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=root; d=distributionjk.com;
+ h=From:Subject:To:Content-Type:MIME-Version:Date:Message-ID;
+ i=info@distributionjk.com;
+ bh=UtOhri8IAmbbesfAChPJlFKgICGIH+la+5oruAUk5eg=;
+ b=FmMQ+kNxtFwoUcg5ogqzyYXe2xeQJfSc1Ij5QxuUEVrlkiRD7lMvSkpgf6xOfB1Id/+2XU5s9378
+   ZCPDOGJfAxGkBAmHDLaF3uPvsZ/tNeiX0fpsFV10JZJRYUvHdEiIfALEoRETOzbI9fEYJYE+lERG
+   97qR0j/9GjoZN6usCAE=
+From: "Apotheke" <info@distributionjk.com>
+Subject: info r_ezeptfrei anfordern
+To: "info" <info@dionysos-aburg.de>
+Content-Type: multipart/alternative; boundary="FFVqnuW3pD0QDFrOC=_mWa0P1MqKCa9nSG"
+MIME-Version: 1.0
+Date: Sun, 13 Apr 2025 20:15:57 +0200
+Message-ID: <0.0.A.F96.1DBACA01A486E6E.0@photograph.distributionjk.com>
+Envelope-To: <info@dionysos-aburg.de>
+X-Spam-Flag: YES
+UI-InboundReport: junk:10;M01:P0:b1Ck+S5lrD8=;vM6T4SgpCHpey0bMFTvxfj/AzvgDyZ
+ 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
+
+This is a multi-part message in MIME format
+
+--FFVqnuW3pD0QDFrOC=_mWa0P1MqKCa9nSG
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+Guten Abend info,
+
+info, es ist sicherlich total beschissen, wenn man aufeinmal kein rich=
+tiger Mann mehr ist und niemand was dagegen tun konnte, wie es frueher=
+ noch der Fall war. Das ist gluecklicherweise endlich anders, denn Pro=
+bleme mit=20
+der Potenz sind mit moderner Medizin rasch und diskret zu beheben und =
+muessen nicht mehr sein!
+
+Der verfruehte Orgasmus wird ab sofort durch die blauen Praeparate sic=
+her verhindert.=20
+Endlich wieder ein Sexleben auf das man sich freuen kann, ohne dauernd=
+ daran zu denken, dass Ihre Partnerin wieder nicht zum Hoehepunkt komm=
+t.
+
+Fast nicht zu glauben, dass Sie ueberteuerte Preise zahlen muessen obw=
+ohl es bei uns, inkl. kostenlosem Versand per anonymen Brief diskret i=
+n den=20
+Briefkasten, sehr viel guenstiger.
+
+https://www.systemversand24.nl
+
+Gesund bleiben
+CEO Prof. Wilhelm Landshut
+=20
+=20
+
+
+--FFVqnuW3pD0QDFrOC=_mWa0P1MqKCa9nSG
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+
+<HTML lang=3Den><HEAD>
+<META content=3D"text/html; charset=3Dutf-8" http-equiv=3DContent-Type=
+>
+<META name=3Dviewport content=3Dinitial-scale=3D1.0></HEAD>
+<BODY style=3D"FONT-FAMILY: Helvetica, Arial, sans-serif; PADDING-BOTT=
+OM: 3px; PADDING-TOP: 3px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIG=
+HT: 0px" bgColor=3D#ebebeb leftMargin=3D0 topMargin=3D0 marginheight=3D=
+"0" marginwidth=3D"0">
+<TABLE height=3D"100%" cellSpacing=3D0 cellPadding=3D0 width=3D"100%" =
+bgColor=3D#ebebeb border=3D0>
+<TBODY>
+<TR>
+<TD class=3Dcontainer-padding style=3D"FONT-SIZE: 12px; LINE-HEIGHT: 1=
+4px; BACKGROUND-COLOR: rgb(235,235,235)" bgColor=3D#ebebeb vAlign=3Dto=
+p align=3Dcenter>&nbsp;</TD></TR>
+<TR>
+<TD style=3D"BACKGROUND-COLOR: rgb(235,235,235)" bgColor=3D#ebebeb vAl=
+ign=3Dtop align=3Dcenter>
+<TABLE class=3Dcontainer cellSpacing=3D0 cellPadding=3D0 width=3D580 b=
+gColor=3D#ffffff border=3D0>
+<TBODY>
+<TR>
+<TD class=3Dcontainer-padding style=3D"FONT-SIZE: 14px; FONT-FAMILY: H=
+elvetica, sans-serif; COLOR: rgb(51,51,51); PADDING-LEFT: 30px; LINE-H=
+EIGHT: 20px; PADDING-RIGHT: 30px; BACKGROUND-COLOR: rgb(255,255,255)" =
+bgColor=3D#ffffff><BR>
+<P style=3D"FONT-SIZE: 10px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PA=
+DDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 10px; PADDING-RIGHT: 0px"><=
+STRONG></STRONG>&nbsp;</P><STRONG></STRONG>
+<P style=3D"FONT-SIZE: 29px; COLOR: rgb(247,180,0); PADDING-BOTTOM: 0p=
+x; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 32px=
+; PADDING-RIGHT: 0px"><STRONG>Teilen Sie dieses Schicksal?</STRONG></P=
+>
+<P><FONT size=3D3 face=3D"Trebuchet MS">Guten Tag info,</FONT></P>
+<P><FONT size=3D3 face=3D"Trebuchet MS">info, es macht einen richtig d=
+epressiv, wenn Erektionsprobleme auftreten und niemand was dagegen tun=
+ konnte, wie es frueher noch der Fall war. Das ist gluecklicherweise e=
+ndlich anders, denn Erektionsprobleme sind mit Arzneimitteln praktisch=
+ und beeindruckend effektiv zu beheben und muessen einfach nicht mehr =
+sein!</FONT></P>
+<P><FONT size=3D3 face=3D"Trebuchet MS">Auch der zu schnelle Hoehepunk=
+t wird durch modernen Originalen garantiert verhindert. Also endlich w=
+ieder ein Liebesleben das Ihre Partnerin gluecklich machen wird, ohne =
+permanent daran denken zu muessen, dass Sie wieder einmal zu frueh kom=
+men.</FONT></P>
+<P><FONT size=3D3 face=3D"Trebuchet MS">Absolut nicht zu glauben, dass=
+ man immer noch so viel dafuer bezahlen muss obwohl es bei uns, inkl. =
+anonymer und kostenloser Briefzustellung direkt in den Briefkasten, bi=
+s zu 65% billiger zu haben ist?</FONT></P>
+<P><FONT size=3D3 face=3D"Trebuchet MS"><A href=3D"https://www.systemv=
+ersand24.nl"><STRONG>Hier geht es zur Apotheke.</STRONG></A></FONT></P=
+>
+<P><FONT size=3D3 face=3D"Trebuchet MS">Gesund bleiben<BR>Beratung Rei=
+ner Feld</FONT></P></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE=
+></BODY></HTML>
+
+
+--FFVqnuW3pD0QDFrOC=_mWa0P1MqKCa9nSG--
+

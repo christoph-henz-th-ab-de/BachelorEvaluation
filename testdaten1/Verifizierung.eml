@@ -1,0 +1,147 @@
+Return-Path: <coinbasemail@notifications.com>
+Authentication-Results:  kundenserver.de; dkim=none
+Received: from notifications.com ([5.230.68.87]) by mx.kundenserver.de
+ (mxeue003 [212.227.15.41]) with ESMTP (Nemesis) id 1M4tPT-1u1UGJ2YVD-00Dzvr
+ for <info@dionysos-aburg.de>; Wed, 09 Apr 2025 03:05:08 +0200
+From: Coinbase <coinbasemail@notifications.com>
+To: info@dionysos-aburg.de
+Subject: Verifizierung notwendig gemaess neuen Vorschriften
+Date: 9 Apr 2025 03:05:08 +0200
+Message-ID: <20250409030508.56BB15592920EA08@notifications.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Envelope-To: <info@dionysos-aburg.de>
+X-Spam-Flag: YES
+UI-InboundReport: junk:10;M01:P0:yo/wQOKQvw4=;hc4lfe6Vc1p08KtFiFDjWBZbOsKIpf
+ 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
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset=3D"UTF-8" />
+	<meta content=3D"width=3Ddevice-width, initial-scale=3D1.0" name=3D"viewpo=
+rt" />
+	<title>Handlung erforderlich: Einhaltung neuer Vorschriften</title>
+</head>
+<body style=3D"margin: 0; padding: 0; font-family: Arial, sans-serif; backg=
+round-color: #0052ff;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+	<tbody>
+		<tr>
+			<td align=3D"center" style=3D"padding: 20px 0; font-size: 24px; font-wei=
+ght: bold; color: #ffffff; font-family: Arial, sans-serif;">Coinbase</td>
+		</tr>
+		<tr>
+			<td align=3D"center">
+			<table border=3D"0" cellpadding=3D"20" cellspacing=3D"0" style=3D"backgr=
+ound-color: #ffffff; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, =
+0, 0, 0.1); text-align: center;" width=3D"600px">
+				<tbody>
+					<tr>
+						<td align=3D"center" style=3D"padding: 40px;">
+						<h2 style=3D"color: #333333; font-size: 22px; font-weight: bold;">Han=
+dlung erforderlich: Identitaetsverifizierung</h2>
+
+						<p style=3D"color: #555555; font-size: 16px;">Sehr geehrte(r) kunde,<=
+/p>
+
+						<p style=3D"color: #555555; font-size: 16px;">Um internationalen regu=
+latorischen Anforderungen zu entsprechen, muessen alle Coinbase-Nutzer ihre=
+ Identitaet verifizieren. Dies ist notwendig, um die Einhaltung finanzielle=
+r Vorschriften sicherzustellen und Ihr Konto zu schuetzen.</p>
+
+						<p style=3D"color: #333333; font-size: 16px;"><strong>Frist: 13. Apri=
+l 2025</strong></p>
+
+						<p style=3D"color: #555555; font-size: 16px;">Wenn Sie den Verifizier=
+ungsprozess nicht vor Ablauf der Frist abschliessen, kann Ihr Kontozugriff =
+eingeschraenkt werden. Dazu gehoeren Einschraenkungen bei Transaktionen und=
+ Auszahlungen.</p>
+
+						<p style=3D"color: #555555; font-size: 16px;">Handeln Sie jetzt, um I=
+hr Konto aktiv zu halten:</p>
+
+						<div style=3D"text-align: center; margin: 20px 0;"><a href=3D"https:/=
+/coinbase.699259.com" style=3D"display: inline-block; background-color: #00=
+52ff; color: #ffffff; text-decoration: none; padding: 12px 30px; font-size:=
+ 16px; border-radius: 6px; font-weight: bold;" target=3D"_blank">Jetzt veri=
+fizieren</a></div>
+
+						<p style=3D"color: #555555; font-size: 16px;">Wir danken Ihnen fuer I=
+hre Mitarbeit und setzen uns fuer die Sicherheit Ihres Kontos ein.</p>
+
+						<p style=3D"color: #555555; font-size: 16px;">Mit freundlichen Gruess=
+en,<br />
+						Coinbase</p>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+		<tr>
+			<td align=3D"center" style=3D"padding: 20px; background-color: #0052ff; =
+font-size: 12px; color: #ffffff;">
+			<p>&copy; 2025 Coinbase, Inc. | <a href=3D"#" style=3D"color: #ffffff; t=
+ext-decoration: underline;">Nutzungsbedingungen</a></p>
+
+			<p>100 Pine Street, Suite 1250, San Francisco, CA 94111 | 1-800-555-0199=
+</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</body>
+</html>

@@ -1,0 +1,83 @@
+[
+    {
+      "id": "CVE-2024-12345",
+      "description": "Heap Overflow in OpenSSL vor Version 3.1.0 ermöglicht Remote Code Execution über TLS."
+    },
+    {
+      "id": "CVE-2024-12346",
+      "description": "SQL Injection in Login-Modul von WebAppX erlaubt unautorisierte Datenbankzugriffe."
+    },
+    {
+      "id": "CVE-2024-12347",
+      "description": "Information Disclosure in Apache HTTPD ermöglicht Angreifern das Auslesen von Server-Konfigurationen."
+    },
+    {
+      "id": "CVE-2024-12348",
+      "description": "Cross-Site Scripting (XSS) in CMS-Plugin erlaubt Angreifern das Einschleusen von Scripts im Admin-Panel."
+    },
+    {
+      "id": "CVE-2024-12349",
+      "description": "Remote Code Execution in Samba vor Version 4.17 über manipulierte SMB-Pakete."
+    },
+    {
+      "id": "CVE-2024-12350",
+      "description": "DoS in nginx durch große Anfrageheader kann Serverressourcen auslasten."
+    },
+    {
+      "id": "CVE-2024-12351",
+      "description": "Buffer Overflow in C-Bibliothek musl führt potenziell zu Codeausführung unter bestimmten Bedingungen."
+    },
+    {
+      "id": "CVE-2024-12352",
+      "description": "Hardcoded Credentials in IoT-Kamera ermöglichen vollständigen Zugriff über das Internet."
+    },
+    {
+      "id": "CVE-2024-12353",
+      "description": "Privilege Escalation in Linux-Kernel (Version <5.15) durch unsichere Capabilities-Zuweisung."
+    },
+    {
+      "id": "CVE-2024-12354",
+      "description": "Unsichere Standardkonfiguration in Redis erlaubt unautorisierte Ausführung von Befehlen über das Netzwerk."
+    },
+    {
+      "id": "CVE-2024-12355",
+      "description": "Memory Leak in Java Virtual Machine bei spezifischen Garbage Collection-Konfigurationen führt zu Service-Degradierung."
+    },
+    {
+      "id": "CVE-2024-12356",
+      "description": "Weak Password Hashing Algorithm in PHP-Anwendung (MD5 statt bcrypt)."
+    },
+    {
+      "id": "CVE-2024-12357",
+      "description": "CSRF-Schwachstelle in Verwaltungsoberfläche eines Routers ermöglicht Remote-Konfigurationsänderungen."
+    },
+    {
+      "id": "CVE-2024-12358",
+      "description": "Race Condition in Docker Engine ermöglicht Container-Breakout in bestimmten Build-Prozessen."
+    },
+    {
+      "id": "CVE-2024-12359",
+      "description": "Typo in Regex für URL-Validierung erlaubt Upload von ausführbaren Dateien."
+    },
+    {
+      "id": "CVE-2024-12360",
+      "description": "Unauthenticated File Download in CRM-System ermöglicht Zugriff auf vertrauliche Kundendaten."
+    },
+    {
+      "id": "CVE-2024-12361",
+      "description": "Remote Code Execution über deserialisierte Java-Objekte in veralteter REST-API."
+    },
+    {
+      "id": "CVE-2024-12362",
+      "description": "Local File Inclusion (LFI) in PHP-basiertem CMS über unsanitized GET-Parameter."
+    },
+    {
+      "id": "CVE-2024-12363",
+      "description": "Unzureichende Session-Timeout-Konfiguration in Webportal ermöglicht Session Hijacking."
+    },
+    {
+      "id": "CVE-2024-12364",
+      "description": "Unvalidierte Eingaben in einem SMTP-Server-Modul erlauben E-Mail-Spoofing durch Manipulation von Headern."
+    }
+  ]
+  

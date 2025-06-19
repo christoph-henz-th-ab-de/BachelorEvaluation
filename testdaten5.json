@@ -1,0 +1,83 @@
+[
+    {
+      "subject": "E-Mail ließ sich nicht öffnen – vermutlich Virus",
+      "text": "Mitarbeiter meldet, dass sich eine E-Mail mit Betreff 'Rechnung Q2' nicht öffnen ließ und nun 'alles langsamer' sei."
+    },
+    {
+      "subject": "Mitarbeiter meldet Pop-ups beim Surfen",
+      "text": "Ein Mitarbeiter erhält beim Besuch einer 'Rezeptsammlung'-Website ständig Pop-ups und hat seine Antivirus-Software deaktiviert, um die Seite zu laden."
+    },
+    {
+      "subject": "Verdächtige Datei: Urlaubsplaner_2025.xlsm",
+      "text": "Eine Excel-Datei mit aktivierten Makros wurde über eine externe Mail empfangen und geöffnet."
+    },
+    {
+      "subject": "Login über fremdes Konto",
+      "text": "Ein Azubi meldet, dass er sich mit dem Account eines Kollegen eingeloggt hat, weil er dessen Passwort kannte."
+    },
+    {
+      "subject": "Gerät bootet nicht mehr nach Windows-Update",
+      "text": "Ein Benutzer berichtet, dass sein PC nach einem Update nicht mehr startet. Vor dem Neustart habe er 'einige Meldungen weggeklickt'."
+    },
+    {
+      "subject": "VPN geht nicht – Mitarbeiter hat Software gelöscht",
+      "text": "Ein Mitarbeiter hat VPN und 'diese Sicherheitssoftware' gelöscht, um den PC schneller zu machen."
+    },
+    {
+      "subject": "Verdacht auf Keylogger",
+      "text": "Benutzer meldet, dass der Cursor oft hängen bleibt und Texte doppelt geschrieben werden."
+    },
+    {
+      "subject": "Externe Festplatte mit privaten Daten angeschlossen",
+      "text": "Ein Mitarbeiter hat seine private Backup-Festplatte angeschlossen, um 'wichtige Familienbilder zu retten'."
+    },
+    {
+      "subject": "Mail mit angeblicher Kündigungsbestätigung",
+      "text": "Mehrere Mitarbeiter haben eine Mail mit dem Betreff 'Ihre Kündigungsbestätigung' erhalten. Anhang: PDF-Datei."
+    },
+    {
+      "subject": "Sicherheitssoftware als 'lästig' deinstalliert",
+      "text": "Mitarbeiter hat Sicherheitslösung entfernt, weil sie 'ständig nervige Hinweise' zeigte."
+    },
+    {
+      "subject": "System meldet Zugriff auf C2-Adresse",
+      "text": "EDR hat den Zugriff auf bekannte Command-and-Control-Infrastruktur blockiert (IP 95.183.52.12)."
+    },
+    {
+      "subject": "Mitarbeiter nutzte öffentliches WLAN ohne VPN",
+      "text": "Ein Mitarbeiter arbeitete von einem Café aus, ohne aktivierten VPN – meldete Verbindungsprobleme."
+    },
+    {
+      "subject": "Falsche Rechnung geöffnet",
+      "text": "Ein Azubi hat eine 'Rechnung für Firma X' geöffnet, obwohl er diese Firma nicht kennt."
+    },
+    {
+      "subject": "Admin-Zugang mit Standardpasswort entdeckt",
+      "text": "Ein neues Gerät war intern mit dem Standard-Admin-Login erreichbar (admin:admin)."
+    },
+    {
+      "subject": "Interner Portscan festgestellt",
+      "text": "Ein Client im HR-Netzwerk hat versucht, mehrere interne Ports (445, 139, 3389) im LAN zu scannen."
+    },
+    {
+      "subject": "Verdacht auf Phishing über Chat",
+      "text": "Ein Mitarbeiter erhielt über Microsoft Teams einen Link zu einer angeblichen Outlook-Anmeldung."
+    },
+    {
+      "subject": "Softwareinstallation von 'nützlichem PDF-Konverter'",
+      "text": "Ein Kollege hat ohne Genehmigung eine Freeware installiert, die sich als Adware herausstellte."
+    },
+    {
+      "subject": "Account-Lockout durch externes Login",
+      "text": "Ein Benutzerkonto wurde mehrfach gesperrt – Loginversuche kamen laut Logs aus Taiwan."
+    },
+    {
+      "subject": "Verdächtiger Netzwerkverkehr nach 00:00 Uhr",
+      "text": "Ein interner Server hat nach Mitternacht 3 GB Daten an eine externe IP (159.203.44.82) gesendet."
+    },
+    {
+      "subject": "Anlage öffnet sich nicht – bitte Ticket",
+      "text": "Ein Mitarbeiter meldet, dass sich ein PDF-Anhang nicht öffnen lässt und bittet um 'neues Passwort fürs PDF'."
+    }
+  ]
+  

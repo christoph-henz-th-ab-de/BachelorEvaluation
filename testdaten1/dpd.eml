@@ -1,0 +1,178 @@
+Delivered-To: christophhenz@gmail.com
+Received: by 2002:a98:9f42:0:b0:226:411d:4ab1 with SMTP id n2csp8364170eig;
+        Wed, 9 Apr 2025 13:27:12 -0700 (PDT)
+X-Google-Smtp-Source: AGHT+IHEq6l+FyxbAm8Ru8Zo7Dc4or3Ts2sax4i4PgLzgIshpHRhkgclW730S+NmIPYzkbNk+esn
+X-Received: by 2002:a05:620a:192a:b0:7c5:5883:8fb3 with SMTP id af79cd13be357-7c7a7656d95mr29859585a.8.1744230432078;
+        Wed, 09 Apr 2025 13:27:12 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1744230432; cv=none;
+        d=google.com; s=arc-20240605;
+        b=NWWcXpqj4UvbWJZ9uVa+g07cVx9Z/ms9wRzJtb6TDYbNj6VXt+7uLuWtskHm5uolgH
+         U0I+AeS43YO7WijegSy1A9bXjC+pPS0pnZlKiVIXgo001NZt8MQFlcJvnpVYmgYGZ8JF
+         9fmxt9EWw9uwbg3efOPg9ZfdQ/O8Vla1iHAo/dMbR8PxuLxQN+JqqyPw+RxQDgwfTLd6
+         XxXb7FQAJTFkiz+iH8kzleJW+DWHPu7wuWoUXIhCXwCqsl2fAq4MTtnxqPNG8vNsMtO1
+         bg4nqOxClHlSDwW+/gNLUVJ8utmiukDAcBbBszm8Ny9GnlpXPXS3B26Yfn5bsBgNMqnY
+         g9rw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20240605;
+        h=mime-version:message-id:subject:to:from:date:domainkey-signature
+         :dkim-signature;
+        bh=42D5fY0xjK+iCwveNKrMB83sHIABRALsb2do8Kp03co=;
+        fh=BkPkXIpH8B4wTRVXQLLEUIzekJizdNrFOTQb85zmxkk=;
+        b=PXtjtZuN6GOo1wsLGjJccIgOb6GqWu1PSPIvHUL7DSNWOIZ3Lr6ijHxMwmilTwYL5v
+         aQgojFmCEA3fv08iS5IO9fDYFIYAyJKBjD9/m+fzFiKALroWXlq0sGAMdRH+EZFKCVBY
+         vFn/ChCPNm5EZNA3bZMdOu0MbO4CfUuBigl9v4TNusva3PwjQRZ997opOtWbjKMY71wD
+         uAVwI53UvfA+g7Y7rIoVHg2OYjxNiHnxgBOip1CfJ+fT/AWbraCNwtgCGVrqxVOgLIgQ
+         XrWTOsTgptrA1vBNQy8/o2A7YQM1N6NcoywOljwLoymGguJ7aT23AUBT9Ws4nXfWVVOB
+         HVHA==;
+        dara=google.com
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@ukgfwjik.globalenterprises.pp.ua header.s=smtp header.b=eGsQ0QPM;
+       spf=pass (google.com: domain of return@mondesabulest.globalenterprises.pp.ua designates 188.138.122.107 as permitted sender) smtp.mailfrom=return@mondesabulest.globalenterprises.pp.ua
+Return-Path: <return@mondesabulest.globalenterprises.pp.ua>
+Received: from vidal.strategicinsights.it.com (6b.7a.8abc.ip4.static.sl-reverse.com. [188.138.122.107])
+        by mx.google.com with ESMTPS id af79cd13be357-7c7a1412f97si166790085a.266.2025.04.09.13.27.11
+        for <christophhenz@gmail.com>
+        (version=TLS1 cipher=ECDHE-ECDSA-AES128-SHA bits=128/128);
+        Wed, 09 Apr 2025 13:27:12 -0700 (PDT)
+Received-SPF: pass (google.com: domain of return@mondesabulest.globalenterprises.pp.ua designates 188.138.122.107 as permitted sender) client-ip=188.138.122.107;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@ukgfwjik.globalenterprises.pp.ua header.s=smtp header.b=eGsQ0QPM;
+       spf=pass (google.com: domain of return@mondesabulest.globalenterprises.pp.ua designates 188.138.122.107 as permitted sender) smtp.mailfrom=return@mondesabulest.globalenterprises.pp.ua
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=smtp; d=ukgfwjik.globalenterprises.pp.ua;
+ h=Date:From:To:Subject:Message-ID:MIME-Version:Content-Type; i=info@ukgfwjik.globalenterprises.pp.ua;
+ bh=w4w1tlK5YZy2XQp7T+UWIqi53ag=;
+ b=eGsQ0QPMpFE/PqgsUfKdCGNPt+hftPy5no3LOOH2FP7L7zrj9uVHUUXcFdnVHVaVGKDHP3LvPag/
+   WyoW0hCj2S2YWRi4g4BjvqHs23/fpQSN+EAD/Ljz27ometPw6uKXlLutc9MirAMKiEmReenf+KzW
+   7Sq3O7gWVUNKvO296PU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=smtp; d=ukgfwjik.globalenterprises.pp.ua;
+ b=Q8unG5ma90Zb5GqU+94QlNOrCrWrH+wxhVLUpWq6jeAJMLGFVj1v6MtjgIFVvEfz1/Z2dEQV2G0n
+   C9H9JKYsuAu8DvkfxBSsG+RePJIVjLhT9viJMDRlMCkbqNx6kqCe2/uLbO1oKFhrq6r/mn6kFBEK
+   qWHZQNIzgRfi8dUqN0g=;
+Received: from gbngumjx.com (ip6-localhost ) by pdr8-services-05v (Postfix) with ESMTP id PYY28AGM for <christophhenz@gmail.com>; Wed, 09 Apr 2025 20:27:10 +0000
+Date: Wed, 09 Apr 2025 20:27:10 +0000.13010-260403
+From: " 'DPD®' " <info@ukgfwjik.globalenterprises.pp.ua>
+To: christophhenz@gmail.com
+Subject: christophhenz - Sie haben (1) Paket, das auf Lieferung wartet 📦.Verwenden Sie Ihren Code, um ihm zu folgen und ihn zu erhalten ,ID#2450
+Message-ID: <6s2ym9e1-x93w2vbp-kusylu2o-grb25s6e-itfmw8yd@convertkit-mail2.com>
+MIME-Version: 1.0
+Content-Type: multipart/report; boundary="188.138.122.107"; report-type=delivery-status
+
+--188.138.122.107Content-Type: multipart/related;
+boundary="188-138-122-107.hinet-ip.hinet.net" --188-138-122-107.hinet-ip.hinet.net
+--188.138.122.107
+Content-Type: multipart/related; boundary="188-138-122-107.hinet-ip.hinet.net"
+
+--188-138-122-107.hinet-ip.hinet.net
+Content-Type: multipart/alternative; boundary="USA22"
+
+--USA22
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Top Stories of the Day: Sep 0, 2019
+
+103882302891885308
+-----
+
+If you believe this has been sent to you in error, please safely unsubscribe
+--USA22
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit+
+
+
+
+<!------------ START SOCIAL MEDIA ------------>
+<div class="gmail_quote"> 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Parcel Delivery</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #EDEDED;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    .header {
+      background: #C6212D;
+      padding: 3px;
+      text-align: start;
+      font-size: 80px;
+      font-weight: bold;
+      color: white;
+    }
+    .content {
+      padding: 5px 20px;
+    }
+    .content h2 {
+      color: #D50000;
+      text-align: start;
+    }
+    .content p {
+      font-size: 14px;
+      color: #333;
+      line-height: 1.5;
+    }
+    .button {
+      display: block;
+      width: 80%;
+      text-align: center;
+      background: #C6212D;
+      color: white;
+      padding: 10px;
+      font-size: 16px;
+      font-weight: bold;
+      text-decoration: none;
+      margin: 20px auto;
+    }
+    .footer {
+      background: #F4F4F4;
+      padding: 10px;
+      text-align: center;
+      font-size: 12px;
+      color: #666;
+    }
+    .footer a {
+      color: #333;
+      text-decoration: none;
+      margin: 0 5px;
+    }
+  </style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <b><span style="text-shadow: 10px 10px 20px black">DPD</span></b>
+  </div>
+
+  <div class="content">
+    <h2 style="text-shadow: 10px 10px 20px black ;color:#C6212D;">You have (1) package waiting for delivery 📦. Use your code to track and receive it.</h2>
+     <center><h2 style="text-shadow: 10px 10px 20px black ;color:black;font-size:20px">Your tracking code:</h2></center>
+    <br><center><div style="width:600px;">
+            <a href="https://storage.googleapis.com/3awedmnjdid/013od2r8.html#4WEVUW123664cMPF444pnpwjzxsyi13010IFPFOMDUKYFQAEY260403ANFK1626d21"style=" font-family: 'Google Sans',Roboto,RobotoDraft,Helvetica,Arial,sans-serif; font-size: 15px; color: #181717; text-decoration:none;">
+                    <span style="background:#b59fa0;padding:12px;border-radius:6px;color:black;font-size:15px;padding-left:30px;">287957104 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="background:#C6212D;color:white;padding:12px;border-radius:4px">Continue ➢</span></span></center> <br>
+                </div>
+    <p style="text-shadow: 10px 10px 20px black ;color:black;font-size:18px">Schedule your delivery and subscribe to our calendar notifications to avoid this happening again!</p><br>
+    
+    <a  style="color:white;" href="https://storage.googleapis.com/3awedmnjdid/013od2r8.html#4JsVNb123664ViQg444cnakubnmuo13010PLPUQQRFRJCWLLC260403CHAE1626d21" class="button">Schedule Your Delivery 📦</a><br>
+    <center><p style="text-shadow: 10px 10px 20px black ;color:black;font-size:14px">Thank you for your prompt attention to this matter. We look forward to your confirmation.</p></center><br><br>
+  </div><br><br><br><br>
+  
+  <div class="footer">
+    <p>Best regards, <br> <strong>DPD</strong></p>
+    <p><a href="https://storage.googleapis.com/3awedmnjdid/013od2r8.html#4gtXyi123664YMzF444zhuzucaema13010ZVOPEFZTYVOWONZ260403EOIM1626D21">About Us</a> | <a href="https://storage.googleapis.com/3awedmnjdid/013od2r8.html#4MDqjj123664sfqX444cjgosuhwqm13010ZWINUFGMQLYXOXU260403CZVQ1626k21">Contact Us</a> | <a href="https://storage.googleapis.com/3awedmnjdid/013od2r8.html#4lAuZj123664reJh444tavahchpjx13010DSYFJBIFXLQCJLG260403JSNP1626i21">Manage Preferences</a></p>
+    <p>&copy; 2025 DPD Limited. All rights reserved.</p>
+    <span style="font-size:10px;color:#757575">If you no longer wish to receive these emails, you can unsubscribe by <span style="color:blue;text-decoration: underline;"><a href="https://storage.googleapis.com/3awedmnjdid/013od2r8.html#5QlNVD123664gNDq444jplrjfzsxc13010OUPUHVRQTCKIJHP260403QOXE1626N21"> clicking here. </a></span><br> </span>
+  </div>
+</div>
+</body>
+</html>

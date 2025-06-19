@@ -1,0 +1,163 @@
+Return-Path: <info@avisrivoli.it>
+Authentication-Results:  kundenserver.de; dkim=pass header.i=@avisrivoli.it
+Received: from srv-zimbrac-tfr.itfor.it ([93.46.193.71]) by mx.kundenserver.de
+ (mxeue002 [212.227.15.41]) with ESMTPS (Nemesis) id 1MmAls-1tL45r13ZY-00pJsE
+ for <info@dionysos-aburg.de>; Fri, 11 Apr 2025 11:06:11 +0200
+Received: from localhost (localhost [127.0.0.1])
+	by srv-zimbrac-tfr.itfor.it (Postfix) with ESMTP id A3EF72C98FF;
+	Thu, 10 Apr 2025 22:33:46 +0200 (CEST)
+Received: from srv-zimbrac-tfr.itfor.it ([127.0.0.1])
+ by localhost (srv-zimbrac-tfr.itfor.it [127.0.0.1]) (amavis, port 10032)
+ with ESMTP id kAGz5qQkB-j1; Thu, 10 Apr 2025 22:33:46 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by srv-zimbrac-tfr.itfor.it (Postfix) with ESMTP id C497E2C9903;
+	Thu, 10 Apr 2025 22:33:45 +0200 (CEST)
+DKIM-Filter: OpenDKIM Filter v2.10.3 srv-zimbrac-tfr.itfor.it C497E2C9903
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=avisrivoli.it;
+	s=597E295A-2B80-11ED-955D-B6E671ED4A40; t=1744317225;
+	bh=pmJS5GF2g6DBj2xB+g5hFsLsG9s7einHmn/nL4Me/Iw=;
+	h=Date:From:Message-ID:MIME-Version;
+	b=DaO5XKrmg0OM7wHIH+W+ud8Dhf4UakzAOvc76ofPePtZuquD42za4JfrSbhfGxVz1
+	 60RbQ7HFMFuQlInv9eSQiup/LYDIAp95JKHfunsAFuHYaJ9BwXKmFrBudq042AgBHO
+	 tfhuNOiqBg7+AQXpEgo7CTlfkeNpK7VX1KnMlccprjLcZ1S4K5pcmPAc1eE5+yA5up
+	 P+ZNyYIDtLnCgj8oUszyc2Ah4i6Td+QANEJaG7gZx5RwVp/kGQRtYrU1d56EmsL4It
+	 5GBnL7wgNIIGa3jhJwLzxBEP+HnGOLwGk4h/hKZys65NNs2/TjtwPmKGL51WJ3ly2a
+	 rbdZwnH/n0w/g==
+X-Virus-Scanned: amavis at srv-zimbrac-tfr.itfor.it
+Received: from srv-zimbrac-tfr.itfor.it ([127.0.0.1])
+ by localhost (srv-zimbrac-tfr.itfor.it [127.0.0.1]) (amavis, port 10026)
+ with ESMTP id yJweLidQLKFh; Thu, 10 Apr 2025 22:33:45 +0200 (CEST)
+Received: from srv-zimbrac-tfr.itfor.it (srv-zimbrac-tfr.itfor.it [10.10.10.81])
+	by srv-zimbrac-tfr.itfor.it (Postfix) with ESMTP id 9410D2C98B8;
+	Thu, 10 Apr 2025 22:33:39 +0200 (CEST)
+Date: Thu, 10 Apr 2025 22:33:39 +0200 (CEST)
+From: Karen O'brien <info@avisrivoli.it>
+Reply-To: info@crossinvestmentgroupinc.com
+Message-ID: <743592881.115734.1744317219553.JavaMail.zimbra@avisrivoli.it>
+Subject: Finanzen
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="=_ab5a5881-d80a-4caa-8a07-0c7a07cda4f6"
+X-Originating-IP: [10.10.10.81]
+X-Mailer: Zimbra 10.1.6_GA_4744 (ZimbraWebClient - GC135 (Win)/10.1.6_GA_4744)
+Thread-Index: KIOvS4cVqonC4Zp21kurLQWlJyCEGg==
+Thread-Topic: Finanzen
+Envelope-To: <info@dionysos-aburg.de>
+X-Spam-Flag: YES
+UI-InboundReport: junk:10;M01:P0:pVYAXVySt6I=;pu5jogCvumtaRKxG7UUOqGJ6by0s/x
+ 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
+ Q8HFtOQFm8AYS2g2aw==
+
+--=_ab5a5881-d80a-4caa-8a07-0c7a07cda4f6
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Hallo Herr/Frau=20
+
+Ich hoffe, diese Nachricht findet Dich gut. Wir freuen uns, Ihnen ein Inves=
+titions- und Finanzierungsprogramm vorstellen zu k=C3=B6nnen, das Privatper=
+sonen und Unternehmen dabei unterst=C3=BCtzt, ihre finanziellen Ziele zu er=
+reichen. Ob Sie eine Finanzierung f=C3=BCr ein neues Projekt, eine Gesch=C3=
+=A4ftserweiterung oder pers=C3=B6nliche Finanzbed=C3=BCrfnisse ben=C3=B6tig=
+en =E2=80=93 wir bieten ma=C3=9Fgeschneiderte L=C3=B6sungen f=C3=BCr Ihre B=
+ed=C3=BCrfnisse.=20
+
+Unser Investitions- und Kreditangebot umfasst:=20
+
+Gesch=C3=A4ftskredite & Investitionen=20
+Unternehmensfinanzierungsl=C3=B6sungen=20
+Privat- und Privatkredite=20
+
+Wir bieten sowohl kurz- als auch langfristige Finanzierungen mit attraktive=
+n Jahreszinsen ab 2 %. Flexible R=C3=BCckzahlungsoptionen sind monatlich od=
+er j=C3=A4hrlich m=C3=B6glich. Wenn Sie Interesse an dieser M=C3=B6glichkei=
+t haben, kontaktieren Sie uns bitte. Wir informieren Sie gerne ausf=C3=BChr=
+lich. Dar=C3=BCber hinaus bieten wir Maklern, die finanzierungsbed=C3=BCrft=
+ige Projekttr=C3=A4ger vermitteln, provisionsbasierte Anreize.=20
+
+Wir freuen uns auf die Zusammenarbeit.=20
+
+Mit freundlichen Gr=C3=BC=C3=9Fen,=20
+Karen=20
+
+--=_ab5a5881-d80a-4caa-8a07-0c7a07cda4f6
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"font-family: trebuchet ms,sans-serif; font-size: =
+12pt; color: #000000"><div><br></div><div><br></div><div data-marker=3D"__S=
+IG_PRE__"><div><div>Hallo Herr/Frau</div><div><br></div><div>Ich hoffe, die=
+se Nachricht findet Dich gut. Wir freuen uns, Ihnen ein Investitions- und F=
+inanzierungsprogramm vorstellen zu k=C3=B6nnen, das Privatpersonen und Unte=
+rnehmen dabei unterst=C3=BCtzt, ihre finanziellen Ziele zu erreichen. Ob Si=
+e eine Finanzierung f=C3=BCr ein neues Projekt, eine Gesch=C3=A4ftserweiter=
+ung oder pers=C3=B6nliche Finanzbed=C3=BCrfnisse ben=C3=B6tigen =E2=80=93 w=
+ir bieten ma=C3=9Fgeschneiderte L=C3=B6sungen f=C3=BCr Ihre Bed=C3=BCrfniss=
+e.</div><div><br></div><div>Unser Investitions- und Kreditangebot umfasst:<=
+/div><div><br></div><div>Gesch=C3=A4ftskredite &amp; Investitionen</div><di=
+v>Unternehmensfinanzierungsl=C3=B6sungen</div><div>Privat- und Privatkredit=
+e</div><div><br></div><div>Wir bieten sowohl kurz- als auch langfristige Fi=
+nanzierungen mit attraktiven Jahreszinsen ab 2 %. Flexible R=C3=BCckzahlung=
+soptionen sind monatlich oder j=C3=A4hrlich m=C3=B6glich. Wenn Sie Interess=
+e an dieser M=C3=B6glichkeit haben, kontaktieren Sie uns bitte. Wir informi=
+eren Sie gerne ausf=C3=BChrlich. Dar=C3=BCber hinaus bieten wir Maklern, di=
+e finanzierungsbed=C3=BCrftige Projekttr=C3=A4ger vermitteln, provisionsbas=
+ierte Anreize.</div><div><br></div><div>Wir freuen uns auf die Zusammenarbe=
+it.</div><div><br></div><div>Mit freundlichen Gr=C3=BC=C3=9Fen,</div><div>K=
+aren</div></div></div></div></body></html>
+--=_ab5a5881-d80a-4caa-8a07-0c7a07cda4f6--
